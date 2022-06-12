@@ -2,4 +2,4 @@
 Python escape sequence
 
 Practice Image
-Video
+Video Link:
