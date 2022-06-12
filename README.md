@@ -2,5 +2,5 @@
 Python escape sequence
 
 Practice Image
-Video Link:
-Video Link:
+Video Link1:
+Video Link2:
